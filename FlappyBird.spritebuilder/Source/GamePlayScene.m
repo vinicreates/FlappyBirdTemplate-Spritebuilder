@@ -17,9 +17,31 @@
 }
 
 // put new methods here
-(void) touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *) event {
-    // this will get called verytime user touches his screen
-    [character flap];
-}
+- (void)touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *)event {
+    // this will get called every time the player touches the screen
+}wwww]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 @end
